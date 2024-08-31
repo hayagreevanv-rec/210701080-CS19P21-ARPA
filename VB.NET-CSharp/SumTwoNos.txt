@@ -1,0 +1,5 @@
+$a=10
+$b=20
+$result=$a + $b
+$out = "The result is : $result"
+New-Item -path "D:\Automation\Sem 7 RPA\PowerShellDemo2" -Name "Result.txt" -ItemType "file" -Value $out
