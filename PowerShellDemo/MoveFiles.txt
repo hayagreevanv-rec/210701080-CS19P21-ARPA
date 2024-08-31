@@ -1,0 +1,3 @@
+Move-Item -Path "D:\Automation\Sem 7 RPA\PowerShellDemo\rec1.txt" -Destination "Scripts"
+Move-Item -Path "D:\Automation\Sem 7 RPA\PowerShellDemo\rec2.txt" -Destination "Scripts"
+Move-Item -Path "D:\Automation\Sem 7 RPA\PowerShellDemo\rec3.txt" -Destination "Scripts"

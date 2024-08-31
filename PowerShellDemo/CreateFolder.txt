@@ -1,0 +1,1 @@
+New-Item -Path "D:\Automation\Sem 7 RPA\PowerShellDemo" -ItemType "directory" -Name "Scripts"
