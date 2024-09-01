@@ -1,19 +1,19 @@
 {
-  "name": "EmailAutomation",
-  "projectId": "8ff29c1a-9b7c-4ddd-a161-a02ac4fe0c54",
-  "description": "",
+  "name": "ErrorHandling",
+  "projectId": "eff7bfc5-c542-4dc2-8928-7e6fpf32c158",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.4]",
-    "UiPath.Mail.Activities": "[1.23.1]",
-    "UiPath.System.Activities": "[24.10.3]",
-    "UiPath.Testing.Activities": "[24.10.0]",
-    "UiPath.UIAutomation.Activities": "[24.10.0]"
+    "UiPath.Excel.Activities": "[2.23.2-preview]",
+    "UiPath.Mail.Activities": "[1.22.1]",
+    "UiPath.System.Activities": "[24.2.0-preview]",
+    "UiPath.Testing.Activities": "[24.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "24.10.1.0",
+  "studioVersion": "24.2.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f538647c-ba83-4081-911c-6f1afcafd489",
+      "uniqueId": "a5e557dd-3924-4b79-843e-2e4809042e43",
       "input": [],
       "output": []
     }
